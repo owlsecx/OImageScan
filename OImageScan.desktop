@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Name=OImageScan
+Comment=Container image/layer inspector (reads image tar/manifest)
+Exec=OImageScan
+Icon=/usr/share/icons/Owl.png
+Terminal=true
+Categories=OForensics;
+Keywords=OImageScan;owlsec;security;
